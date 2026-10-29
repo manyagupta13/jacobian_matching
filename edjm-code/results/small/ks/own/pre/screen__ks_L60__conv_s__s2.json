@@ -1,0 +1,1 @@
+{"pde": "ks_L60", "arch": "conv_s", "seed": 2, "params": 8212, "converged": false, "rho50": 57782152.0, "rho25": 5266.2744140625, "err50": 161533136.0, "lam_ratio": 97.01155338624011, "specrad_f": 7.871528127067451, "specrad_P": 1.065545863049775, "onestep": 0.01297368761152029, "ndiv": 30, "ntraj": 30, "prediction": "help", "logged_before_finetuning": "2026-10-22 10:14:06"}

@@ -1,0 +1,8 @@
+# Training and fine-tuning ran on Kaggle (NVIDIA T4) with its preinstalled JAX 0.11.1;
+# the notebooks pip-install equinox and optax if missing.
+jax>=0.11
+equinox
+optax
+numpy
+scipy
+matplotlib
